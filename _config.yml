@@ -1,0 +1,13 @@
+# Site settings
+title: 'infogbb' # Your Title
+tagline: 'Contenitore comunicati Curva Sud Ambrì' # A brief tagline for your site
+sidebar_image: /images/cover.jpg
+
+# Build settings
+markdown: kramdown
+
+
+# Gems
+plugins:
+  - jekyll-paginate
+
