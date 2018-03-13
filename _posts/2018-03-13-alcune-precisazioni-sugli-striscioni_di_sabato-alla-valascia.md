@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alcune precisazioni sugli striscioni di sabato alla Valascia"
-date: 2018-02-12 12:00:00
+date: 2018-03-13 00:00:00
 categories: comunicati
 featured_image: /images/cover.jpg
 ---
