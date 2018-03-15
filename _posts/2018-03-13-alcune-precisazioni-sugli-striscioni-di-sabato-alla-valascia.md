@@ -20,7 +20,7 @@ criticarci sui social! Per potere fare chiarezza immediata su tali fatti
 ed evitare sterili polemiche rendiamo pubblico questo testo. Ringraziamo 
 la redazione di HSHS a cui lo inviamo in anteprima, per il lavoro svolto 
 e per la possibilità di pubblicarlo e diffonderlo. Inoltre è da subito 
-attivo il nostro nuovo e contro-informativo blog **http://infogbb.org**. 
+attivo il nostro nuovo e contro-informativo blog <http://infogbb.org>. 
 
 Nei giorni scorsi è stata notificata una vergognosa diffida a un ragazzo 
 della curva “colpevole” d’aver fatto entrare ed esposto uno striscione, 
