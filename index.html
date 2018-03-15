@@ -22,9 +22,10 @@ layout: default
             {{ post.date | date_to_string }}
           </span>
           {{ post.excerpt }}
-            <p><a class="btn btn-sm btn-primary" href="{{ post.url 
-         }}/#read-more" role="button">Continua a leggere <i class="fa 
-         fa-arrow-circle-right"></i></a>
+            <p><a class="btn btn-sm btn-primary" href="{{ post.url }}" 
+                                                 role="button">Continua 
+                                                 a leggere <i class="fa 
+                                                 fa-arrow-circle-right"></i></a>
         </li>
       {% endfor %}
     </ul>
