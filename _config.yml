@@ -1,6 +1,7 @@
 # Site settings
 title: 'infogbb' # Your Title
 tagline: 'Contenitore comunicati Curva Sud Ambrì' # A brief tagline for your site
+email: 'infogbb@inventati.org'
 sidebar_image: /images/cover.jpg
 
 # Build settings
