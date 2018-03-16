@@ -6,7 +6,7 @@ sidebar_image: /images/cover.jpg
 # Build settings
 markdown: kramdown
 url: http://cyberl3o.github.io
-
+future: true
 # Gems
 plugins:
   - jekyll-paginate-v2
