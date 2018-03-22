@@ -21,6 +21,14 @@ body {
   white-space: nowrap;
 }
 
+strong{
+    font-weight:bold;
+}
+
+em{
+    font-style:italic;
+}
+
 /* Type */
 
 h1,
