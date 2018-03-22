@@ -7,7 +7,7 @@ categories: comunicati
 featured_image: /images/cover.jpg
 ---
 {::options parse_block_html="true" /}
-_Traduzione in tedesco del comunicato [Attacco alla curva]({{ 
+_Traduzione in tedesco del comunicato [Attacco alla Curva Sud]({{ 
 site.baseurl }}{% post_url 2018-03-16-attacco-alla-curva-sud %})_
 
 
