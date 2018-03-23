@@ -108,11 +108,11 @@ pigliare? E allora al posto di tacere, ritenete più credibile rilanciare
 (*imbaraz tremend imbaraz*), cercando una volta in più di 
 manipolare/distorcere quello che è stato il corso degli eventi. Il 
 signor Gobbi, dal canto suo, dopo quasi una settimana di sproloqui, è 
-riuscito  finalmente è a zittirsi (Ah già, che scemi ! Che non è mica 
-lui che ha diretto il tutto… Ma fino ad ora, quindi parlava a 
-sproposito?). E chiaramente, ma anche qua di dubbi non ne abbiamo mai 
-avuti, la stampa ci abbocca e scrive, scrive, scrive, … ma per ora le 
-domande davvero scomode nessuno le pone. 
+riuscito  finalmente a zittirsi (Ah già, che scemi! Che non è mica lui 
+che ha diretto il tutto… Ma fino ad ora, quindi parlava a sproposito?).  
+E chiaramente, ma anche qua di dubbi non ne abbiamo mai avuti, la stampa 
+ci abbocca e scrive, scrive, scrive,… ma per ora le domande davvero 
+scomode nessuno le pone. 
 
 Grazie per l’attenzione e scusate un’altra volta se ci permettiamo di 
 intervenire e di ribadire le nostre ragioni. Sappiamo bene che lassù ci 
