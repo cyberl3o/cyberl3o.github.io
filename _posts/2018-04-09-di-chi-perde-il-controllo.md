@@ -135,4 +135,5 @@ P.S non compare esplicitamente in questo scritto la figura del
 poliziotto ”operaiocapodinessuno” col manganello telescopico Crotta. Ma 
 c’è, non preoccupatevi. Bisogna solo leggere tra le righe.
 
-**She lost control // La lucha sigue // GBB * Curva SUD // (1.3.1.2.)**
+**She's Lost Control // La lucha sigue // GBB * Curva SUD // 
+(1.3.1.2.)**
