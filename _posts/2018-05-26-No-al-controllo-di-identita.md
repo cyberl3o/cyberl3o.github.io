@@ -80,5 +80,7 @@ manifestare pubblicamente il proprio dissenso a questa proposta,
 scrivendo alla società e rendendo pubblico il proprio dissenso.
 
 TIFO * LOTTA * AGGREGAZIONE 
+
 CONTRO LO SPORT MODERNO
+
 **GIOVENTU BIANCOBLU**
