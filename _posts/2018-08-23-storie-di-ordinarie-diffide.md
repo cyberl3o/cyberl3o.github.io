@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Storie di ordinarie diffide: buoni propositi, eiacualazioni precoci e omissioni"
-date: 2018-08-22 12:00:00
+date: 2018-08-23 12:00:00
 categories: comunicati
 featured_image: /images/cover.jpg
 ---
