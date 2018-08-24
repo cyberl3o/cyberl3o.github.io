@@ -16,4 +16,4 @@ Si!! Ci troverete proprio lì !! e che nessuno ci sposti. Perché quel posto ce 
 Ci troverete lì perché anche noi sappiamo rispettare quel codice non scritto, per questo veniamo rispettate! Perché siamo spensierate e romantiche ma indomabili lottatrici che la partita la guardano con le mani al cielo e cantando a squarciagola!  
 Siamo Ultras pure noi… tette e ovaie comprese!!
 
-Le donne della GBB Ambrì
+*Le donne della GBB Ambrì*
