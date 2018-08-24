@@ -12,7 +12,8 @@ featured_image: /images/cover.jpg
 >convinti di allontanare la paura di cambiare  
 >verremo ancora alle vostre porte  
 >e grideremo ancora più forte  
->per quanto voi vi crediate assolti siete per sempre coinvolti…
+>per quanto voi vi crediate assolti siete per sempre coinvolti…  
+*(F. de André, Canzone del maggio, tratto dal disco Storia di un impiegato)*
 
 Con sospetta puntualità, quasi precoce, ecco arrivare le intimazioni di divieto di perimetro per gli episodi di Ambrì – Losanna. Non delle diffide vere e proprie ma dei divieti - intimati dal dipartimento delle istituzioni e dalla polizia cantonale e firmati Decio Cavallini - di perimetro (dalla Valascia e dalle altre piste svizzere per un raggio di vari chilometri, 4 ore prima e dopo la partita, da uno a tre anni). Dopo i buoni propositi, voilà l'esemplare testimonianza di come il Concordato sia attivo, serva e sia già notevole strumento per limitare l'agire del tifo organizzato. Altro che controllo del documento.
 
@@ -56,4 +57,4 @@ evidentemente riteniamo che la sua permanenza, ben retribuita, in
 valle sia ormai da far giungere al capolinea.
 
 **GBB * 1988 da 30 anni dalla parte del torto**  
-“*uhuh... assassin de la police*”
+[“*uhuh... assassin de la police*”](https://www.youtube.com/watch?v=EbHnuZIPTCw)
