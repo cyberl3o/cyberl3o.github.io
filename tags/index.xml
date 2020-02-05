@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on infoGBB</title>
-    <link>https://throwaway1312.github.io/tags/</link>
+    <link>https://cyberl3o.github.io/tags/</link>
     <description>Recent content in Tags on infoGBB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <managingEditor>test@test.ch (infogbb)</managingEditor>
     <webMaster>test@test.ch (infogbb)</webMaster>
     
-	<atom:link href="https://throwaway1312.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cyberl3o.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
