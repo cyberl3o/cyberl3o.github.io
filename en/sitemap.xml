@@ -1,10 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cyberl3o.github.io/posts/febbre-della-sud/</loc>
-    <lastmod>2020-09-19T19:57:25+02:00</lastmod>
+    <loc>https://cyberl3o.github.io/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberl3o.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberl3o.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberl3o.github.io/posts/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberl3o.github.io/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberl3o.github.io/posts/"
+                />
   </url>
   
   <url>
@@ -111,7 +136,6 @@
   
   <url>
     <loc>https://cyberl3o.github.io/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -125,24 +149,7 @@
   </url>
   
   <url>
-    <loc>https://cyberl3o.github.io/posts/</loc>
-    <lastmod>2020-09-19T19:57:25+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cyberl3o.github.io/de/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cyberl3o.github.io/posts/"
-                />
-  </url>
-  
-  <url>
     <loc>https://cyberl3o.github.io/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -152,22 +159,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cyberl3o.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cyberl3o.github.io/</loc>
-    <lastmod>2020-09-19T19:57:25+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cyberl3o.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cyberl3o.github.io/"
                 />
   </url>
   

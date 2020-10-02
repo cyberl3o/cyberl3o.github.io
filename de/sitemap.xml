@@ -1,6 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cyberl3o.github.io/de/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberl3o.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberl3o.github.io/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberl3o.github.io/de/posts/</loc>
+    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberl3o.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberl3o.github.io/de/posts/"
+                />
+  </url>
   
   <url>
     <loc>https://cyberl3o.github.io/de/posts/emergenza-sanitaria-rojava/</loc>
@@ -49,7 +79,6 @@
   
   <url>
     <loc>https://cyberl3o.github.io/de/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -63,24 +92,7 @@
   </url>
   
   <url>
-    <loc>https://cyberl3o.github.io/de/posts/</loc>
-    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cyberl3o.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cyberl3o.github.io/de/posts/"
-                />
-  </url>
-  
-  <url>
     <loc>https://cyberl3o.github.io/de/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -90,22 +102,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://cyberl3o.github.io/de/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cyberl3o.github.io/de/</loc>
-    <lastmod>2020-04-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cyberl3o.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cyberl3o.github.io/de/"
                 />
   </url>
   

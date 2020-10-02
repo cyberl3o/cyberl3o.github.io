@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>infoGBB</title>
@@ -8,11 +8,7 @@
     <language>it</language>
     <managingEditor>test@test.ch (infogbb)</managingEditor>
     <webMaster>test@test.ch (infogbb)</webMaster>
-    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://cyberl3o.github.io/de/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cyberl3o.github.io/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solidarität mit Rojava</title>
       <link>https://cyberl3o.github.io/de/posts/emergenza-sanitaria-rojava/</link>
@@ -22,11 +18,9 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Solidarität ist die Zärtlichkeit der Völker&amp;rdquo; Ernesto &amp;ldquo;Che&amp;rdquo; Guevara&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;„Wir sitzen alle im selben Boot“, heißt es in diesen Tagen immer wieder. Doch
 auch wenn es stimmt, dass wir in einer Zeit der Unsicherheit und des Zweifels
 auf Sicht segeln, dann ist das Boot dennoch nicht für alle gleich.&lt;/p&gt;
-
 &lt;p&gt;Nur wenige haben ein schönes Segelboot, auf dem sie in Ruhe ihre Tage verbringen
 können. Es gibt viele, die jeden Tag mit dem Ruderboot zur Arbeit fahren müssen,
 weil sich die auf dem Segelboot dafür entschieden haben. Es sind die
