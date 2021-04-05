@@ -1,6 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://cyberl3o.github.io/posts/2021-04-05-valascia/</loc>
+    <lastmod>2021-04-05T12:00:31+02:00</lastmod>
+  </url>
   
   <url>
     <loc>https://cyberl3o.github.io/posts/2020-10-21-farsa/</loc>
@@ -14,36 +19,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cyberl3o.github.io/posts/2020-10-21-farsa/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cyberl3o.github.io/</loc>
-    <lastmod>2020-10-21T10:02:33+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cyberl3o.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cyberl3o.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cyberl3o.github.io/posts/</loc>
-    <lastmod>2020-10-21T10:02:33+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://cyberl3o.github.io/de/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cyberl3o.github.io/posts/"
                 />
   </url>
   
@@ -158,6 +133,11 @@
   </url>
   
   <url>
+    <loc>https://cyberl3o.github.io/posts/misure_sicuerezza_davos/</loc>
+    <lastmod>2017-09-22T18:13:01+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cyberl3o.github.io/contatto/</loc>
   </url>
   
@@ -171,6 +151,7 @@
   
   <url>
     <loc>https://cyberl3o.github.io/categories/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -184,7 +165,24 @@
   </url>
   
   <url>
+    <loc>https://cyberl3o.github.io/posts/</loc>
+    <lastmod>2021-04-05T12:00:31+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberl3o.github.io/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberl3o.github.io/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://cyberl3o.github.io/tags/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -194,6 +192,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cyberl3o.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cyberl3o.github.io/</loc>
+    <lastmod>2021-04-05T12:00:31+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://cyberl3o.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cyberl3o.github.io/"
                 />
   </url>
   
