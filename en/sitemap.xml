@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cyberl3o.github.io/posts/2021-05-20-processo/</loc>
+    <lastmod>2021-05-20T21:37:02+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cyberl3o.github.io/posts/2021-04-05-valascia/</loc>
     <lastmod>2021-04-05T12:00:31+02:00</lastmod>
   </url>
@@ -166,7 +171,7 @@
   
   <url>
     <loc>https://cyberl3o.github.io/posts/</loc>
-    <lastmod>2021-04-05T12:00:31+02:00</lastmod>
+    <lastmod>2021-05-20T21:37:02+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -197,7 +202,7 @@
   
   <url>
     <loc>https://cyberl3o.github.io/</loc>
-    <lastmod>2021-04-05T12:00:31+02:00</lastmod>
+    <lastmod>2021-05-20T21:37:02+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
