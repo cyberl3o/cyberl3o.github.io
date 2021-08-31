@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://cyberl3o.github.io/en/sitemap.xml</loc>
-		
-	   	<lastmod>2021-05-20T21:37:02+02:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://cyberl3o.github.io/de/sitemap.xml</loc>
-		
-	   	<lastmod>2020-10-21T10:02:33+02:00</lastmod>
-		
-	</sitemap>
-	
+  
+  <sitemap>
+    <loc>https://cyberl3o.github.io/de/sitemap.xml</loc>
+    
+      <lastmod>2020-10-21T10:02:33+02:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://cyberl3o.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2021-08-31T21:37:02+02:00</lastmod>
+    
+  </sitemap>
+  
 </sitemapindex>
