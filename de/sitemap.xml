@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://cyberl3o.github.io/de/posts/2020-10-21-farsa/</loc>
     <lastmod>2020-10-21T10:02:33+02:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="de"
                 href="https://cyberl3o.github.io/de/posts/2020-10-21-farsa/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cyberl3o.github.io/de/</loc>
     <lastmod>2020-10-21T10:02:33+02:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="de"
                 href="https://cyberl3o.github.io/de/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cyberl3o.github.io/de/posts/</loc>
     <lastmod>2020-10-21T10:02:33+02:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="de"
                 href="https://cyberl3o.github.io/de/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cyberl3o.github.io/de/posts/2020-10-02-processo/</loc>
     <lastmod>2020-10-02T12:00:00+00:00</lastmod>
     <xhtml:link
@@ -60,9 +53,7 @@
                 hreflang="de"
                 href="https://cyberl3o.github.io/de/posts/2020-10-02-processo/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cyberl3o.github.io/de/posts/emergenza-sanitaria-rojava/</loc>
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -75,9 +66,7 @@
                 hreflang="de"
                 href="https://cyberl3o.github.io/de/posts/emergenza-sanitaria-rojava/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cyberl3o.github.io/de/posts/2018-05-26-no-al-controllo-di-identita/</loc>
     <lastmod>2018-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -90,9 +79,7 @@
                 hreflang="de"
                 href="https://cyberl3o.github.io/de/posts/2018-05-26-no-al-controllo-di-identita/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cyberl3o.github.io/de/posts/2018-03-16-attacco-alla-curva-sud/</loc>
     <lastmod>2018-03-16T00:01:00+00:00</lastmod>
     <xhtml:link
@@ -105,9 +92,7 @@
                 hreflang="de"
                 href="https://cyberl3o.github.io/de/posts/2018-03-16-attacco-alla-curva-sud/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cyberl3o.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -119,9 +104,7 @@
                 hreflang="de"
                 href="https://cyberl3o.github.io/de/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://cyberl3o.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -134,5 +117,4 @@
                 href="https://cyberl3o.github.io/de/tags/"
                 />
   </url>
-  
 </urlset>
