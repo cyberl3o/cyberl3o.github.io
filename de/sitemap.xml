@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.infogbb.org/de/posts/2023-03-04-stato-d-assedio/</loc>
-    <lastmod>2023-03-04T07:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.infogbb.org/posts/2023-03-04-stato-d-assedio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.infogbb.org/de/posts/2023-03-04-stato-d-assedio/"
-                />
-  </url><url>
     <loc>https://www.infogbb.org/de/</loc>
-    <lastmod>2023-03-04T07:00:00+02:00</lastmod>
+    <lastmod>2023-09-21T07:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +16,7 @@
                 />
   </url><url>
     <loc>https://www.infogbb.org/de/posts/</loc>
-    <lastmod>2023-03-04T07:00:00+02:00</lastmod>
+    <lastmod>2023-09-21T07:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +26,32 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.infogbb.org/de/posts/"
+                />
+  </url><url>
+    <loc>https://www.infogbb.org/de/posts/2023-09-21-a-difesa-di-un-ideale/</loc>
+    <lastmod>2023-09-21T07:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.infogbb.org/posts/2023-09-21-a-difesa-di-un-ideale/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.infogbb.org/de/posts/2023-09-21-a-difesa-di-un-ideale/"
+                />
+  </url><url>
+    <loc>https://www.infogbb.org/de/posts/2023-03-04-stato-d-assedio/</loc>
+    <lastmod>2023-03-04T07:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.infogbb.org/posts/2023-03-04-stato-d-assedio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.infogbb.org/de/posts/2023-03-04-stato-d-assedio/"
                 />
   </url><url>
     <loc>https://www.infogbb.org/de/posts/2023-01-20-umili-ma-mai-domi/</loc>
