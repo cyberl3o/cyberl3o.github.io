@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.infogbb.org/posts/2024-08-22-azione-solidarieta/</loc>
+    <lastmod>2024-08-21T01:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://www.infogbb.org/</loc>
-    <lastmod>2024-03-18T01:00:00+02:00</lastmod>
+    <lastmod>2024-08-21T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -15,11 +18,8 @@
                 href="https://www.infogbb.org/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/posts/2024-03-18-lontan-da-te/</loc>
-    <lastmod>2024-03-18T01:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://www.infogbb.org/posts/</loc>
-    <lastmod>2024-03-18T01:00:00+02:00</lastmod>
+    <lastmod>2024-08-21T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -30,6 +30,9 @@
                 hreflang="en"
                 href="https://www.infogbb.org/posts/"
                 />
+  </url><url>
+    <loc>https://www.infogbb.org/posts/2024-03-18-lontan-da-te/</loc>
+    <lastmod>2024-03-18T01:00:00+02:00</lastmod>
   </url><url>
     <loc>https://www.infogbb.org/posts/2024-03-12-coloriamo-la-pista/</loc>
     <lastmod>2024-03-12T01:00:00+02:00</lastmod>
