@@ -2,213 +2,226 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.infogbb.org/de/posts/2024-10-21-trsferta-bienne/</loc>
-    <lastmod>2024-10-21T01:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://www.infogbb.org/de/</loc>
-    <lastmod>2024-10-21T01:00:00+02:00</lastmod>
+    <loc>http://localhost:1313/de/posts/2025-10-10-luca-e-paolo/</loc>
+    <lastmod>2025-10-10T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/"
+                href="http://localhost:1313/posts/2025-10-10-luca-e-paolo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/"
+                href="http://localhost:1313/de/posts/2025-10-10-luca-e-paolo/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/posts/</loc>
-    <lastmod>2024-10-21T01:00:00+02:00</lastmod>
+    <loc>http://localhost:1313/de/</loc>
+    <lastmod>2025-10-10T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/"
+                href="http://localhost:1313/de/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/posts/2024-01-26-il-derby-dell-idrante/</loc>
+    <loc>http://localhost:1313/de/posts/</loc>
+    <lastmod>2025-10-10T01:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/posts/2024-10-21-trsferta-bienne/</loc>
+    <lastmod>2024-10-21T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/de/posts/2024-01-26-il-derby-dell-idrante/</loc>
     <lastmod>2024-01-26T07:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/2024-01-26-il-derby-dell-idrante/"
+                href="http://localhost:1313/posts/2024-01-26-il-derby-dell-idrante/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/2024-01-26-il-derby-dell-idrante/"
+                href="http://localhost:1313/de/posts/2024-01-26-il-derby-dell-idrante/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/posts/2023-12-07-vamos-vamos-ambri-piotta/</loc>
+    <loc>http://localhost:1313/de/posts/2023-12-07-vamos-vamos-ambri-piotta/</loc>
     <lastmod>2023-12-07T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/2023-12-07-vamos-vamos-ambri-piotta/"
+                href="http://localhost:1313/posts/2023-12-07-vamos-vamos-ambri-piotta/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/2023-12-07-vamos-vamos-ambri-piotta/"
+                href="http://localhost:1313/de/posts/2023-12-07-vamos-vamos-ambri-piotta/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/posts/2023-11-02-palestina-libera/</loc>
+    <loc>http://localhost:1313/de/posts/2023-11-02-palestina-libera/</loc>
     <lastmod>2023-11-02T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/2023-11-02-palestina-libera/"
+                href="http://localhost:1313/posts/2023-11-02-palestina-libera/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/2023-11-02-palestina-libera/"
+                href="http://localhost:1313/de/posts/2023-11-02-palestina-libera/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/posts/2023-09-22-a-difesa-di-un-ideale/</loc>
+    <loc>http://localhost:1313/de/posts/2023-09-22-a-difesa-di-un-ideale/</loc>
     <lastmod>2023-09-21T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/2023-09-22-a-difesa-di-un-ideale/"
+                href="http://localhost:1313/posts/2023-09-22-a-difesa-di-un-ideale/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/2023-09-22-a-difesa-di-un-ideale/"
+                href="http://localhost:1313/de/posts/2023-09-22-a-difesa-di-un-ideale/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/posts/2023-03-04-stato-d-assedio/</loc>
+    <loc>http://localhost:1313/de/posts/2023-03-04-stato-d-assedio/</loc>
     <lastmod>2023-03-04T07:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/2023-03-04-stato-d-assedio/"
+                href="http://localhost:1313/posts/2023-03-04-stato-d-assedio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/2023-03-04-stato-d-assedio/"
+                href="http://localhost:1313/de/posts/2023-03-04-stato-d-assedio/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/posts/2023-01-20-umili-ma-mai-domi/</loc>
+    <loc>http://localhost:1313/de/posts/2023-01-20-umili-ma-mai-domi/</loc>
     <lastmod>2023-01-20T11:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/2023-01-20-umili-ma-mai-domi/"
+                href="http://localhost:1313/posts/2023-01-20-umili-ma-mai-domi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/2023-01-20-umili-ma-mai-domi/"
+                href="http://localhost:1313/de/posts/2023-01-20-umili-ma-mai-domi/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/posts/2023-01-01-tutti-ad-ambri/</loc>
+    <loc>http://localhost:1313/de/posts/2023-01-01-tutti-ad-ambri/</loc>
     <lastmod>2023-01-01T18:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/2023-01-01-tutti-ad-ambri/"
+                href="http://localhost:1313/posts/2023-01-01-tutti-ad-ambri/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/2023-01-01-tutti-ad-ambri/"
+                href="http://localhost:1313/de/posts/2023-01-01-tutti-ad-ambri/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/posts/2020-10-21-farsa/</loc>
+    <loc>http://localhost:1313/de/posts/2020-10-21-farsa/</loc>
     <lastmod>2020-10-21T10:02:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/2020-10-21-farsa/"
+                href="http://localhost:1313/posts/2020-10-21-farsa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/2020-10-21-farsa/"
+                href="http://localhost:1313/de/posts/2020-10-21-farsa/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/posts/2020-10-02-processo/</loc>
+    <loc>http://localhost:1313/de/posts/2020-10-02-processo/</loc>
     <lastmod>2020-10-02T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/2020-10-02-processo/"
+                href="http://localhost:1313/posts/2020-10-02-processo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/2020-10-02-processo/"
+                href="http://localhost:1313/de/posts/2020-10-02-processo/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/posts/emergenza-sanitaria-rojava/</loc>
+    <loc>http://localhost:1313/de/posts/emergenza-sanitaria-rojava/</loc>
     <lastmod>2020-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/emergenza-sanitaria-rojava/"
+                href="http://localhost:1313/posts/emergenza-sanitaria-rojava/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/emergenza-sanitaria-rojava/"
+                href="http://localhost:1313/de/posts/emergenza-sanitaria-rojava/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/posts/2018-05-26-no-al-controllo-di-identita/</loc>
+    <loc>http://localhost:1313/de/posts/2018-05-26-no-al-controllo-di-identita/</loc>
     <lastmod>2018-05-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/2018-05-26-no-al-controllo-di-identita/"
+                href="http://localhost:1313/posts/2018-05-26-no-al-controllo-di-identita/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/2018-05-26-no-al-controllo-di-identita/"
+                href="http://localhost:1313/de/posts/2018-05-26-no-al-controllo-di-identita/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/posts/2018-03-16-attacco-alla-curva-sud/</loc>
+    <loc>http://localhost:1313/de/posts/2018-03-16-attacco-alla-curva-sud/</loc>
     <lastmod>2018-03-16T00:01:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/2018-03-16-attacco-alla-curva-sud/"
+                href="http://localhost:1313/posts/2018-03-16-attacco-alla-curva-sud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/2018-03-16-attacco-alla-curva-sud/"
+                href="http://localhost:1313/de/posts/2018-03-16-attacco-alla-curva-sud/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/categories/</loc>
+    <loc>http://localhost:1313/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/categories/"
+                href="http://localhost:1313/de/categories/"
                 />
   </url><url>
-    <loc>https://www.infogbb.org/de/tags/</loc>
+    <loc>http://localhost:1313/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/tags/"
+                href="http://localhost:1313/de/tags/"
                 />
   </url>
 </urlset>
