@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.infogbb.org/posts/2025-10-16-info-trasferta-kloten/</loc>
-    <lastmod>2025-10-16T01:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://www.infogbb.org/</loc>
-    <lastmod>2025-10-16T01:00:00+02:00</lastmod>
+    <lastmod>2025-11-17T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -19,7 +16,7 @@
                 />
   </url><url>
     <loc>https://www.infogbb.org/posts/</loc>
-    <lastmod>2025-10-16T01:00:00+02:00</lastmod>
+    <lastmod>2025-11-17T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -30,6 +27,12 @@
                 hreflang="en"
                 href="https://www.infogbb.org/posts/"
                 />
+  </url><url>
+    <loc>https://www.infogbb.org/posts/2025-11-17-presentazione-progetto-gaza-web/</loc>
+    <lastmod>2025-11-17T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://www.infogbb.org/posts/2025-10-16-info-trasferta-kloten/</loc>
+    <lastmod>2025-10-16T01:00:00+02:00</lastmod>
   </url><url>
     <loc>https://www.infogbb.org/posts/2025-10-10-luca-e-paolo/</loc>
     <lastmod>2025-10-10T01:00:00+02:00</lastmod>
