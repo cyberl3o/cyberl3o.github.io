@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Progetti di solidarietà on infoGBB</title>
+    <link>https://www.infogbb.org/solidarieta/</link>
+    <description>Recent content in Progetti di solidarietà on infoGBB</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>test@test.ch (infogbb)</managingEditor>
+    <webMaster>test@test.ch (infogbb)</webMaster>
+    <atom:link href="https://www.infogbb.org/solidarieta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gaza Web</title>
+      <link>https://www.infogbb.org/solidarieta/gaza-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>test@test.ch (infogbb)</author>
+      <guid>https://www.infogbb.org/solidarieta/gaza-web/</guid>
+      <description>Gaza Web – Alberi della Rete Il nostro percorso decennale di sostegno alla Palestina ci ha portato a organizzarci per portare un piccolo contributo a un progetto umanitario attivo nella Striscia di Gaza.&#xA;Il progetto Gazaweb – Alberi della Rete è portato avanti da A.C.S. – Associazione di Cooperazione e Solidarietà, una ONG laica e senza scopo di lucro che da oltre 20 anni opera nelle zone critiche del sud del mondo con progetti di emergenza e di sviluppo sostenibile.</description>
+    </item>
+    <item>
+      <title>Kobane</title>
+      <link>https://www.infogbb.org/solidarieta/kobane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>test@test.ch (infogbb)</author>
+      <guid>https://www.infogbb.org/solidarieta/kobane/</guid>
+      <description>Costruzione di uno spazio giochi e sportivo per una scuola a Kobane Your browser does not support the video tag. Raccolta fondi Per partecipare alla raccolta fondi usare il conto conto corrente seguente:&#xA;Instestato a: Comitato ticinese per la ricostruzione di Kobane&#xA;Conto corrente postale: 69-605609-5&#xA;IBAN: CH78 0900 0000 6960 5609 5&#xA;Menzione: Progetto Curva Sud Rojava&#xA;Stato del progetto I lavori per la costruzione dello spazio giochi e sportivo sono quasi ultimati!</description>
+    </item>
+  </channel>
+</rss>

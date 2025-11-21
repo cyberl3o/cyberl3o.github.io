@@ -8,8 +8,15 @@
     <language>en</language>
     <managingEditor>test@test.ch (infogbb)</managingEditor>
     <webMaster>test@test.ch (infogbb)</webMaster>
-    <lastBuildDate>Mon, 17 Nov 2025 01:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 01:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.infogbb.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La GBB supporta il progetto Gaza Web - Alberi della rete</title>
+      <link>https://www.infogbb.org/posts/2025-11-21-la-gbb-supporta-il-progetto-gaza-web/</link>
+      <pubDate>Fri, 21 Nov 2025 01:00:00 +0200</pubDate><author>test@test.ch (infogbb)</author>
+      <guid>https://www.infogbb.org/posts/2025-11-21-la-gbb-supporta-il-progetto-gaza-web/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;immagine&#34; src=&#34;https://www.infogbb.org/20251120-gbb-gazaweb.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Serata di presentazione del progetto Gaza Web - Alberi della rete</title>
       <link>https://www.infogbb.org/posts/2025-11-17-presentazione-progetto-gaza-web/</link>
@@ -403,10 +410,17 @@
       <description> </description>
     </item>
     <item>
-      <title></title>
-      <link>https://www.infogbb.org/solidarieta/</link>
+      <title>Gaza Web</title>
+      <link>https://www.infogbb.org/solidarieta/gaza-web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>test@test.ch (infogbb)</author>
-      <guid>https://www.infogbb.org/solidarieta/</guid>
+      <guid>https://www.infogbb.org/solidarieta/gaza-web/</guid>
+      <description>Gaza Web – Alberi della Rete Il nostro percorso decennale di sostegno alla Palestina ci ha portato a organizzarci per portare un piccolo contributo a un progetto umanitario attivo nella Striscia di Gaza.&#xA;Il progetto Gazaweb – Alberi della Rete è portato avanti da A.C.S. – Associazione di Cooperazione e Solidarietà, una ONG laica e senza scopo di lucro che da oltre 20 anni opera nelle zone critiche del sud del mondo con progetti di emergenza e di sviluppo sostenibile.</description>
+    </item>
+    <item>
+      <title>Kobane</title>
+      <link>https://www.infogbb.org/solidarieta/kobane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>test@test.ch (infogbb)</author>
+      <guid>https://www.infogbb.org/solidarieta/kobane/</guid>
       <description>Costruzione di uno spazio giochi e sportivo per una scuola a Kobane Your browser does not support the video tag. Raccolta fondi Per partecipare alla raccolta fondi usare il conto conto corrente seguente:&#xA;Instestato a: Comitato ticinese per la ricostruzione di Kobane&#xA;Conto corrente postale: 69-605609-5&#xA;IBAN: CH78 0900 0000 6960 5609 5&#xA;Menzione: Progetto Curva Sud Rojava&#xA;Stato del progetto I lavori per la costruzione dello spazio giochi e sportivo sono quasi ultimati!</description>
     </item>
   </channel>
