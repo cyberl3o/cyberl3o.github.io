@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.infogbb.org/de/posts/2025-10-10-luca-e-paolo/</loc>
-    <lastmod>2025-10-10T01:00:00+02:00</lastmod>
+    <loc>https://www.infogbb.org/de/posts/2025-12-04-tutto-ha-un-limite/</loc>
+    <lastmod>2025-12-04T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.infogbb.org/posts/2025-10-10-luca-e-paolo/"
+                href="https://www.infogbb.org/posts/2025-12-04-tutto-ha-un-limite/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.infogbb.org/de/posts/2025-10-10-luca-e-paolo/"
+                href="https://www.infogbb.org/de/posts/2025-12-04-tutto-ha-un-limite/"
                 />
   </url><url>
     <loc>https://www.infogbb.org/de/</loc>
-    <lastmod>2025-10-10T01:00:00+02:00</lastmod>
+    <lastmod>2025-12-04T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://www.infogbb.org/de/posts/</loc>
-    <lastmod>2025-10-10T01:00:00+02:00</lastmod>
+    <lastmod>2025-12-04T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,6 +39,19 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.infogbb.org/de/posts/"
+                />
+  </url><url>
+    <loc>https://www.infogbb.org/de/posts/2025-10-10-luca-e-paolo/</loc>
+    <lastmod>2025-10-10T01:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.infogbb.org/posts/2025-10-10-luca-e-paolo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.infogbb.org/de/posts/2025-10-10-luca-e-paolo/"
                 />
   </url><url>
     <loc>https://www.infogbb.org/de/posts/2024-10-21-trsferta-bienne/</loc>
