@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.infogbb.org/posts/2026-02-08-assemblea/</loc>
-    <lastmod>2026-02-06T01:00:00+02:00</lastmod>
+    <loc>https://www.infogbb.org/posts/2026-0403-terzo-torneo-allez-benoit/</loc>
+    <lastmod>2026-04-03T01:00:00+02:00</lastmod>
   </url><url>
     <loc>https://www.infogbb.org/</loc>
-    <lastmod>2026-02-06T01:00:00+02:00</lastmod>
+    <lastmod>2026-04-03T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -19,7 +19,7 @@
                 />
   </url><url>
     <loc>https://www.infogbb.org/posts/</loc>
-    <lastmod>2026-02-06T01:00:00+02:00</lastmod>
+    <lastmod>2026-04-03T01:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -30,6 +30,9 @@
                 hreflang="en"
                 href="https://www.infogbb.org/posts/"
                 />
+  </url><url>
+    <loc>https://www.infogbb.org/posts/2026-02-08-assemblea/</loc>
+    <lastmod>2026-02-06T01:00:00+02:00</lastmod>
   </url><url>
     <loc>https://www.infogbb.org/posts/2026-0120-chiediamo-rispetto/</loc>
     <lastmod>2026-01-20T01:00:00+02:00</lastmod>
