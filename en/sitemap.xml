@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/2026-09-17-corteo/</loc>
+    <lastmod>2026-09-15T01:00:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/2026-09-18-corteo/</loc>
     <lastmod>2026-09-15T01:00:00+02:00</lastmod>
   </url><url>

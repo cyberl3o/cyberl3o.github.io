@@ -12,6 +12,13 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Corteo!</title>
+      <link>http://localhost:1313/posts/2026-09-17-corteo/</link>
+      <pubDate>Tue, 15 Sep 2026 01:00:00 +0200</pubDate><author>test@test.ch (infogbb)</author>
+      <guid>http://localhost:1313/posts/2026-09-17-corteo/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;immagine&#34; src=&#34;http://localhost:1313/20260917-corteo.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Corteo!</title>
       <link>http://localhost:1313/posts/2026-09-18-corteo/</link>
       <pubDate>Tue, 15 Sep 2026 01:00:00 +0200</pubDate><author>test@test.ch (infogbb)</author>
       <guid>http://localhost:1313/posts/2026-09-18-corteo/</guid>
