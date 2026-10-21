@@ -8,8 +8,15 @@
     <language>en</language>
     <managingEditor>test@test.ch (infogbb)</managingEditor>
     <webMaster>test@test.ch (infogbb)</webMaster>
-    <lastBuildDate>Thu, 01 Oct 2026 01:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.infogbb.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aggregazione post partita</title>
+      <link>https://www.infogbb.org/posts/2026-10-26-concerto-vecio/</link>
+      <pubDate>Wed, 21 Oct 2026 01:00:00 +0200</pubDate><author>test@test.ch (infogbb)</author>
+      <guid>https://www.infogbb.org/posts/2026-10-26-concerto-vecio/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;immagine&#34; src=&#34;https://www.infogbb.org/20261024-concerto-vecio.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Insieme per l&#39;Ambrì-Piotta</title>
       <link>https://www.infogbb.org/posts/2026-10-01-insieme-per-ambri-piotta/</link>
